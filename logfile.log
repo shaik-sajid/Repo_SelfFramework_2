@@ -1,0 +1,237 @@
+ 2023-06-17 10:46:13,182 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 10:46:15,214 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 10:46:15,469 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 10:46:15,636 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 10:46:15,790 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 10:46:19,500 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 10:46:19,500 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 10:46:21,509 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 10:46:21,509 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 10:46:21,627 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 10:46:21,627 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 10:46:21,764 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 10:46:21,764 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 10:46:21,828 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 10:46:21,828 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 10:49:23,813 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 10:49:25,851 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 10:49:26,039 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 10:49:26,200 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 10:49:26,372 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 10:49:29,865 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 10:49:29,865 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 10:49:31,875 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 10:49:31,875 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 10:49:31,991 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 10:49:31,991 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 10:49:32,137 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 10:49:32,137 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 10:49:32,207 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 10:49:32,207 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 14:42:00,645 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 14:42:03,192 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 14:42:03,574 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 14:42:03,732 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 14:42:03,977 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 14:42:08,078 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 14:42:08,078 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 14:42:10,089 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 14:42:10,089 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 14:42:10,214 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 14:42:10,214 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 14:42:10,372 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 14:42:10,372 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 14:42:10,447 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 14:42:10,447 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 14:42:58,609 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 14:43:00,621 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 14:43:00,801 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 14:43:00,984 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 14:43:01,154 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 14:43:05,189 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 14:43:05,189 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 14:43:07,198 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 14:43:07,198 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 14:43:07,323 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 14:43:07,323 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 14:43:07,478 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 14:43:07,478 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 14:43:07,555 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 14:43:07,555 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 19:48:56,952 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 19:48:59,025 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 19:48:59,208 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 19:48:59,391 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 19:48:59,659 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 19:49:03,596 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 19:49:03,596 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 19:49:05,608 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 19:49:05,608 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 19:49:05,713 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 19:49:05,713 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 19:49:05,858 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 19:49:05,858 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 19:49:05,915 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 19:49:05,915 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 19:51:37,522 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 19:51:39,554 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 19:51:39,749 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 19:51:39,930 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 19:51:40,124 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 19:51:44,175 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 19:51:44,175 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 19:51:46,187 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 19:51:46,187 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 19:51:46,309 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 19:51:46,309 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 19:51:46,458 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 19:51:46,458 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 19:51:46,526 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 19:51:46,526 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 19:55:04,991 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 19:55:07,030 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 19:55:07,218 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 19:55:07,361 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 19:55:07,515 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 19:55:11,564 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 19:55:11,564 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 19:55:13,615 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 19:55:13,615 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 19:55:13,831 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 19:55:13,831 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 19:55:13,969 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 19:55:13,969 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 19:55:14,031 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 19:55:14,031 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 20:41:25,337 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:41:27,373 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:41:27,560 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 20:41:27,724 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 20:41:27,873 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 20:41:31,719 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:41:31,719 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:41:33,730 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:41:33,730 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:41:33,840 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 20:41:33,840 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 20:41:33,981 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 20:41:33,981 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 20:41:34,050 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 20:41:34,050 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 20:43:42,639 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:43:44,669 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:43:44,846 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 20:43:45,086 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 20:43:45,279 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 20:43:49,122 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:43:49,122 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:43:51,132 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:43:51,132 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:43:51,249 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 20:43:51,249 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 20:43:51,392 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 20:43:51,392 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 20:43:51,457 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 20:43:51,457 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 20:47:18,158 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:47:20,172 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:47:20,363 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 20:47:20,556 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 20:47:20,710 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 20:47:24,573 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:47:24,573 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:47:26,584 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:47:26,584 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:47:26,713 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 20:47:26,713 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 20:47:26,871 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 20:47:26,871 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 20:47:26,927 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 20:47:26,927 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 20:48:03,264 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:48:05,328 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:48:05,679 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 20:48:05,981 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 20:48:06,258 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 20:48:10,244 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:48:10,244 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:48:12,258 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:48:12,258 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:48:12,392 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 20:48:12,392 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 20:48:12,560 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 20:48:12,560 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 20:48:12,621 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 20:48:12,621 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 20:53:03,784 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:53:05,796 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:53:06,001 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 20:53:06,154 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 20:53:06,321 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 20:53:10,288 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:53:10,288 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 20:53:12,312 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:53:12,312 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 20:53:12,446 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 20:53:12,446 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 20:53:12,577 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 20:53:12,577 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 20:53:12,634 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 20:53:12,634 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 21:00:27,734 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 21:00:29,785 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 21:00:30,013 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 21:00:30,203 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 21:00:30,365 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 21:00:34,266 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 21:00:34,266 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 21:00:36,292 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 21:00:36,292 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 21:00:36,434 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 21:00:36,434 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 21:00:36,664 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 21:00:36,664 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 21:00:36,732 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 21:00:36,732 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 21:02:49,888 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 21:02:51,937 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 21:02:52,144 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 21:02:52,305 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 21:02:52,467 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 21:02:56,290 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 21:02:56,290 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 21:02:58,300 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 21:02:58,300 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 21:02:58,417 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 21:02:58,417 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 21:02:58,548 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 21:02:58,548 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 21:02:58,616 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 21:02:58,616 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 21:03:16,931 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 21:03:18,966 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 21:03:19,154 : INFO : test_e2e : First Name Entered user1
+ 2023-06-17 21:03:19,304 : INFO : test_e2e : Email Entered user1@gmail.com
+ 2023-06-17 21:03:19,460 : INFO : test_e2e : Gender Entered Female
+ 2023-06-17 21:03:23,510 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 21:03:23,510 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-17 21:03:25,533 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 21:03:25,533 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-17 21:03:25,706 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 21:03:25,706 : INFO : test_e2e : First Name Entered user2
+ 2023-06-17 21:03:25,848 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 21:03:25,848 : INFO : test_e2e : Email Entered user2@gmail.com
+ 2023-06-17 21:03:25,905 : INFO : test_e2e : Gender Entered Male
+ 2023-06-17 21:03:25,905 : INFO : test_e2e : Gender Entered Male
+ 2023-06-18 00:52:51,161 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-18 00:52:53,196 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-18 00:53:43,630 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-18 00:53:45,666 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-18 00:55:37,681 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-18 00:55:39,694 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-18 00:55:39,875 : INFO : test_e2e : First Name Entered SAJID
+ 2023-06-18 00:55:40,048 : INFO : test_e2e : Email Entered Sajid@gmail.com
+ 2023-06-18 00:55:55,692 : INFO : test_e2e : Url Enteredhttps://rahulshettyacademy.com/angularpractice/
+ 2023-06-18 00:55:57,731 : INFO : test_e2e : Screen scrolled to 400 pixelds
+ 2023-06-18 00:55:57,969 : INFO : test_e2e : First Name Entered Scorpio
+ 2023-06-18 00:55:58,129 : INFO : test_e2e : Email Entered Scorpio@gmail.com
